@@ -2,8 +2,7 @@
 
 This project was bootstrapped with Create React App.
 
-<img src="https://imgur.com/isxBn3x" align="right"
-     title="React AntD logo by Erick Escriba" width="120" height="178">
+[IMG](https://i.imgur.com/isxBn3x.jpg)
 
 ## Usage
 

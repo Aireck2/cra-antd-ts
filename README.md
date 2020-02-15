@@ -3,8 +3,7 @@
 This project was bootstrapped with Create React App.
 
 <img src="https://imgur.com/f1kYxlF" align="right"
-     title="React AntD logo by Erick Escriba" width="120" height="178"
-     />
+     title="React AntD logo by Erick Escriba" width="120" height="178">
 
 ## Usage
 

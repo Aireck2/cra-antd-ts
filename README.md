@@ -2,7 +2,7 @@
 
 This project was bootstrapped with Create React App.
 
-[IMG](https://i.imgur.com/isxBn3x.jpg)
+![IMG](https://i.imgur.com/isxBn3x.jpg)
 
 ## Usage
 
